@@ -1,0 +1,1 @@
+Olá, esse projetinho foi feito com o intuito de exercitar os comandos de html e css. 
